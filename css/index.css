@@ -828,6 +828,9 @@ html.is-cn .hero-desc {
   will-change: opacity, transform;
 }
 
+html.is-mobile #cursor-follow {
+  display: none;
+}
 
 #snd-btn {
   display: none;
@@ -3034,7 +3037,9 @@ html.is-cn .hero-desc {
   will-change: opacity, transform;
 }
 
-
+html.is-mobile #cursor-follow {
+  display: none;
+}
 
 #snd-btn {
   display: none;
